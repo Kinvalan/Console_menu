@@ -14,7 +14,7 @@
             var index = 0;
             WriteMenu(Options, Options[index]);
 
-            // etestetstes
+            
             ConsoleKeyInfo keyinfo;
             do
             {
